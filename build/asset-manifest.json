@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oclock/static/css/main.4cc18171.chunk.css",
+    "main.js": "/oclock/static/js/main.a08ce593.chunk.js",
+    "main.js.map": "/oclock/static/js/main.a08ce593.chunk.js.map",
+    "runtime-main.js": "/oclock/static/js/runtime-main.11e5c1fe.js",
+    "runtime-main.js.map": "/oclock/static/js/runtime-main.11e5c1fe.js.map",
+    "static/js/2.5e9aa7bc.chunk.js": "/oclock/static/js/2.5e9aa7bc.chunk.js",
+    "static/js/2.5e9aa7bc.chunk.js.map": "/oclock/static/js/2.5e9aa7bc.chunk.js.map",
+    "static/js/3.c284e216.chunk.js": "/oclock/static/js/3.c284e216.chunk.js",
+    "static/js/3.c284e216.chunk.js.map": "/oclock/static/js/3.c284e216.chunk.js.map",
+    "index.html": "/oclock/index.html",
+    "static/css/main.4cc18171.chunk.css.map": "/oclock/static/css/main.4cc18171.chunk.css.map",
+    "static/js/2.5e9aa7bc.chunk.js.LICENSE.txt": "/oclock/static/js/2.5e9aa7bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11e5c1fe.js",
+    "static/js/2.5e9aa7bc.chunk.js",
+    "static/css/main.4cc18171.chunk.css",
+    "static/js/main.a08ce593.chunk.js"
+  ]
+}
